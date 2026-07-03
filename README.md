@@ -2,7 +2,7 @@
 
 # Hey, I'm Nello
 
-<img src="https://readme-typing-svg.demolab.com/?lines=self-taught+dev;server+owner+%2F%2F+GTA%3A+Pinehill+Roleplay;i+build+first%2C+ask+questions+later;always+shipping+something;&font=Fira+Code&center=true&width=520&height=45&color=A78BFA&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=self-taught+dev;i+build+first%2C+ask+questions+later;always+shipping+something;&font=Fira+Code&center=true&width=520&height=45&color=A78BFA&vCenter=true&size=22&pause=1200"/>
 
 </div>
 
@@ -10,20 +10,22 @@
 
 ## about me
 
-no cap, I'm just a dev who likes making things from scratch instead of googling "how to" for the 100th time. I run **GTA: Pinehill Roleplay**, a whole SA-MP server built basically from the ground up — plugins, backend, panel, bots, the whole vibe. minimal setups, no bloat, no unnecessary extra features — if it doesn't need to be there, it's not there. that's just how I roll.
-
-when I'm not shipping features I'm probably debugging something at 2am wondering why it worked yesterday. it's giving chaos but it's my chaos.
+I'm a self-taught developer who just loves building stuff from scratch instead of relying on ready-made solutions. I enjoy figuring things out on my own, breaking stuff, fixing it, and learning along the way. I prefer keeping things simple and minimal — no unnecessary bloat, just clean and functional builds.
 
 <br>
 
 ## currently learning
 
-- C++
-- Golang
-- Python
-- Electron
-- Vite
-- React
+<div align="center">
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+</div>
 
 <br>
 
