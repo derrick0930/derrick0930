@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Nello
+# Hey, I'm Derrick
 
-<img src="https://readme-typing-svg.demolab.com/?lines=self-taught+developer;always+building+something+new;turning+ideas+into+code&font=Fira+Code&center=true&width=520&height=45&color=A78BFA&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=learning+by+doing;still+figuring+things+out;just+here+to+build+cool+stuff&font=Fira+Code&center=true&width=520&height=45&color=A78BFA&vCenter=true&size=22&pause=1200"/>
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## about me
 
-I'm a self-taught developer who just loves building stuff from scratch instead of relying on ready-made solutions. I enjoy figuring things out on my own, breaking stuff, fixing it, and learning along the way. I prefer keeping things simple and minimal — no unnecessary bloat, just clean and functional builds.
+I like figuring things out on my own instead of jumping straight to ready-made solutions. still learning a lot, still messing things up sometimes, but that's part of the process. I try to keep things simple — no unnecessary bloat, just clean and functional builds.
 
 <br>
 
