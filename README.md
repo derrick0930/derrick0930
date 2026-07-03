@@ -2,7 +2,7 @@
 
 # Hey, I'm Nello
 
-<img src="https://readme-typing-svg.demolab.com/?lines=self-taught+dev;i+build+first%2C+ask+questions+later;always+shipping+something;&font=Fira+Code&center=true&width=520&height=45&color=A78BFA&vCenter=true&size=22&pause=1200"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=self-taught+developer;always+building+something+new;turning+ideas+into+code&font=Fira+Code&center=true&width=520&height=45&color=A78BFA&vCenter=true&size=22&pause=1200"/>
 
 </div>
 
