@@ -6,6 +6,6 @@
 
 **[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_CODE)**
 &nbsp;&nbsp;
-**[![Email](https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)**
+**[![Email](https://img.shields.io/badge/Email-Contact%20Us-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@derrick.web.id)**
 
 </div>
