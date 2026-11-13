@@ -6,5 +6,5 @@
   &nbsp;
   <img src="https://badge.pinehill.web.id/api/github?username=derrick0930&stats=stars%2Cfollowers%2Cfollowing%2Crepos%2Ccontributions&scale=0.75&bg2=005ca3&glowcolor=00c7b0" alt="GitHub Stats">
   &nbsp;
-  <img src="https://badge.pinehill.web.id/api/spotify?id=1522070333807394836&scale=0.75&bg2=005ca3&glowcolor=00c7b0" alt="Spotify Now Playing">
+  <img src="https://badge.pinehill.web.id/api/spotify?id=1522070333807394836&scale=0.75" alt="Spotify Now Playing">
 </div>
