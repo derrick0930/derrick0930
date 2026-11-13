@@ -11,5 +11,5 @@
   <img src="https://badge.pinehill.web.id/api/spotify?id=1522070333807394836&scale=0.70" alt="Spotify Now Playing">
   &nbsp;
   
-  <img src="https://badge.pinehill.web.id/api/activity?id=1522070333807394836&radius=36&scale=0.70&bg2=005ca3&glowcolor=00c7b0" alt="Discord Activity">
+  <img src="https://badge.pinehill.web.id/api/activity?id=1522070333807394836&scale=0.70&bg2=005ca3&glowcolor=00c7b0" alt="Discord Activity">
 </div>
